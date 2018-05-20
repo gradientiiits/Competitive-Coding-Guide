@@ -2,8 +2,8 @@
 
 ### GCD and LCM Euclid’s Algorithm
 ##### Tutorial
--[Kanas Univ](http://people.cs.ksu.edu/~schmidt/301s14/Exercises/euclid_alg.html)
--[Khan's Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+- [Kanas Univ](http://people.cs.ksu.edu/~schmidt/301s14/Exercises/euclid_alg.html)
+- [Khan's Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
 ##### Other Study Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm)
