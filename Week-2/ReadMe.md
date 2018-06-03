@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 ### GCD and LCM Euclid’s Algorithm
 ##### Tutorial
@@ -15,6 +15,18 @@
 - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
 
 ### Long arithmetic (Multi, Sum, Div, Sub)
+#### Sum
+##### Tutorial
+- [GeeksforGeeks](https://www.geeksforgeeks.org/sum-two-large-numbers/)
+
+#### Multiplication
+##### Tutorial
+- [GeeksforGeeks](https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/)
+
+#### Division
+##### Tutorial
+- [GeeksforGeeks](https://www.geeksforgeeks.org/divide-large-number-represented-string/)
+
 ### Quick Sort
 ##### Tutorial
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/)
@@ -74,12 +86,25 @@
       
 
 ### Queue (DS)
+#### Tutorial
+- [HackerEarth](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
+
+#### Questions
+- [HackerRank](https://www.hackerrank.com/domains/data-structures/queues)
+
 ### Stack (DS)
+#### Tutorial
+- [HackerEarth](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/)
+
+#### Questions
+- [HackerRank](https://www.hackerrank.com/domains/data-structures/stacks)
+
 ### Breadth First Search
-##### [Tutorial]()
+##### Tutorial
+- [HackerRank](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
 
 ##### Other Study Sources
- 
+- [GeeksforGeeks](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
 
 ##### Questions
 - [BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
@@ -87,7 +112,9 @@
 - [Herding](http://www.spoj.com/problems/HERDING/)
 
 ### Depth First Search
-#### [Tutorial]()
+#### Tutorial
+- [HackerRank](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
+
 #### Other Study Sources
 - [Youtube - Michael Seery](https://www.youtube.com/watch?v=bkROCj-BTWE)   [Youtube - Nathaniel Fan](https://www.youtube.com/watch?v=mE_PCK0oFyo)
 - [Youtube - Joe James](https://www.youtube.com/watch?v=tlPuVe5Otio)
